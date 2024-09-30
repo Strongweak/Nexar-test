@@ -5,6 +5,7 @@ Shader "Unlit/TestShader"
         _MainTex ("Texture", 2D) = "white" {}
         _A ("A", Range(0.0, 1.0)) = 0.6
         _B ("B", Range(0.0, 1.0)) = 0.8
+        _Smoothing ("Smoothing",Range(0.0, 0.2)) = 0.1
     }
     SubShader
     {
@@ -37,6 +38,7 @@ Shader "Unlit/TestShader"
             sampler2D _MainTex;
             float _A;
             float _B;
+            float _Smoothing;
             float4 _MainTex_ST;
 
             v2f vert(appdata v)
@@ -58,25 +60,14 @@ Shader "Unlit/TestShader"
                 float grayScale = dot(col.rgb, float3(0.299, 0.587, 0.114));
                 //combine color
                 float4 blend = revertCol * grayScale;
+                
+                float aSmear = smoothstep(_A - _Smoothing, _A + _Smoothing, x);
+                float bSmear = smoothstep(_B - _Smoothing, _B + _Smoothing, x);
 
-                if (x < _A)
-                {
-                    col = grayScale;
-                }
-                else if (x > _A && x < _B)
-                {
-                    col = revertCol;
-                }
-                else
-                {
-                    col = blend;
-                }
-
-                //debug
-                float shit = step(_A, x);
-                float4 wow = lerp(grayScale, blend, shit);
-                return col;
-                //return fixed4(gray,gray,gray,col.a);
+                fixed4 finalCol = lerp(grayScale, revertCol, aSmear);
+                finalCol = lerp(finalCol, blend, bSmear);
+                
+                return finalCol;
             }
             ENDCG
         }

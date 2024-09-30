@@ -1,0 +1,531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Geometry
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Geometry/Heroes_Base
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_L/herobrine_3D_rig:Knee_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_L/herobrine_3D_rig:Knee_L/herobrine_3D_rig:Ankle_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_R/herobrine_3D_rig:Knee_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Hip_R/herobrine_3D_rig:Knee_R/herobrine_3D_rig:Ankle_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Neck_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Neck_M/herobrine_3D_rig:Head_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_L/herobrine_3D_rig:Shoulder_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_L/herobrine_3D_rig:Shoulder_L/herobrine_3D_rig:Elbow_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_L/herobrine_3D_rig:Shoulder_L/herobrine_3D_rig:Elbow_L/herobrine_3D_rig:Wrist_L
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_R/herobrine_3D_rig:Shoulder_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_R/herobrine_3D_rig:Shoulder_R/herobrine_3D_rig:Elbow_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:DeformationSystem/herobrine_3D_rig:Root_M/herobrine_3D_rig:Spine1_M/herobrine_3D_rig:Chest_M/herobrine_3D_rig:Scapula_R/herobrine_3D_rig:Shoulder_R/herobrine_3D_rig:Elbow_R/herobrine_3D_rig:Wrist_R
+    m_Weight: 1
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintArm_L/herobrine_3D_rig:FKIKArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintArm_R/herobrine_3D_rig:FKIKArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintLeg_L/herobrine_3D_rig:FKIKLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintLeg_R/herobrine_3D_rig:FKIKLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintSpine_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKIKSystem/herobrine_3D_rig:FKIKParentConstraintSpine_M/herobrine_3D_rig:FKIKSpine_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M/herobrine_3D_rig:FKXSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M/herobrine_3D_rig:FKXSpine1_M/herobrine_3D_rig:FKOffsetChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M/herobrine_3D_rig:FKXSpine1_M/herobrine_3D_rig:FKOffsetChest_M/herobrine_3D_rig:FKExtraChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M/herobrine_3D_rig:FKXSpine1_M/herobrine_3D_rig:FKOffsetChest_M/herobrine_3D_rig:FKExtraChest_M/herobrine_3D_rig:FKChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:FKXRoot_M/herobrine_3D_rig:FKOffsetSpine1_M/herobrine_3D_rig:HipSwingerStabilizer/herobrine_3D_rig:FKExtraSpine1_M/herobrine_3D_rig:FKSpine1_M/herobrine_3D_rig:FKXSpine1_M/herobrine_3D_rig:FKOffsetChest_M/herobrine_3D_rig:FKExtraChest_M/herobrine_3D_rig:FKChest_M/herobrine_3D_rig:FKXChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:HipSwingReverse
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKOffsetRoot_M/herobrine_3D_rig:FKExtraRoot_M/herobrine_3D_rig:FKRoot_M/herobrine_3D_rig:HipSwingReverse/herobrine_3D_rig:HipSwingReverseRoot
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M/herobrine_3D_rig:FKGlobalStaticHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M/herobrine_3D_rig:FKGlobalStaticHead_M/herobrine_3D_rig:FKGlobalHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M/herobrine_3D_rig:FKGlobalStaticHead_M/herobrine_3D_rig:FKGlobalHead_M/herobrine_3D_rig:FKExtraHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M/herobrine_3D_rig:FKGlobalStaticHead_M/herobrine_3D_rig:FKGlobalHead_M/herobrine_3D_rig:FKExtraHead_M/herobrine_3D_rig:FKHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetNeck_M/herobrine_3D_rig:FKExtraNeck_M/herobrine_3D_rig:FKNeck_M/herobrine_3D_rig:FKXNeck_M/herobrine_3D_rig:FKOffsetHead_M/herobrine_3D_rig:FKGlobalStaticHead_M/herobrine_3D_rig:FKGlobalHead_M/herobrine_3D_rig:FKExtraHead_M/herobrine_3D_rig:FKHead_M/herobrine_3D_rig:FKXHead_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_L/herobrine_3D_rig:FKExtraScapula_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_L/herobrine_3D_rig:FKExtraScapula_L/herobrine_3D_rig:FKScapula_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_L/herobrine_3D_rig:FKExtraScapula_L/herobrine_3D_rig:FKScapula_L/herobrine_3D_rig:FKXScapula_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_R/herobrine_3D_rig:FKExtraScapula_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_R/herobrine_3D_rig:FKExtraScapula_R/herobrine_3D_rig:FKScapula_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToChest_M/herobrine_3D_rig:FKOffsetScapula_R/herobrine_3D_rig:FKExtraScapula_R/herobrine_3D_rig:FKScapula_R/herobrine_3D_rig:FKXScapula_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L/herobrine_3D_rig:FKXKnee_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L/herobrine_3D_rig:FKXKnee_L/herobrine_3D_rig:FKOffsetAnkle_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L/herobrine_3D_rig:FKXKnee_L/herobrine_3D_rig:FKOffsetAnkle_L/herobrine_3D_rig:FKExtraAnkle_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L/herobrine_3D_rig:FKXKnee_L/herobrine_3D_rig:FKOffsetAnkle_L/herobrine_3D_rig:FKExtraAnkle_L/herobrine_3D_rig:FKAnkle_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_L/herobrine_3D_rig:FKExtraHip_L/herobrine_3D_rig:FKHip_L/herobrine_3D_rig:FKXHip_L/herobrine_3D_rig:FKOffsetKnee_L/herobrine_3D_rig:FKExtraKnee_L/herobrine_3D_rig:FKKnee_L/herobrine_3D_rig:FKXKnee_L/herobrine_3D_rig:FKOffsetAnkle_L/herobrine_3D_rig:FKExtraAnkle_L/herobrine_3D_rig:FKAnkle_L/herobrine_3D_rig:FKXAnkle_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R/herobrine_3D_rig:FKXKnee_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R/herobrine_3D_rig:FKXKnee_R/herobrine_3D_rig:FKOffsetAnkle_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R/herobrine_3D_rig:FKXKnee_R/herobrine_3D_rig:FKOffsetAnkle_R/herobrine_3D_rig:FKExtraAnkle_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R/herobrine_3D_rig:FKXKnee_R/herobrine_3D_rig:FKOffsetAnkle_R/herobrine_3D_rig:FKExtraAnkle_R/herobrine_3D_rig:FKAnkle_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToRoot_M/herobrine_3D_rig:FKOffsetHip_R/herobrine_3D_rig:FKExtraHip_R/herobrine_3D_rig:FKHip_R/herobrine_3D_rig:FKXHip_R/herobrine_3D_rig:FKOffsetKnee_R/herobrine_3D_rig:FKExtraKnee_R/herobrine_3D_rig:FKKnee_R/herobrine_3D_rig:FKXKnee_R/herobrine_3D_rig:FKOffsetAnkle_R/herobrine_3D_rig:FKExtraAnkle_R/herobrine_3D_rig:FKAnkle_R/herobrine_3D_rig:FKXAnkle_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L/herobrine_3D_rig:FKXShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L/herobrine_3D_rig:FKXShoulder_L/herobrine_3D_rig:FKOffsetElbow_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L/herobrine_3D_rig:FKXShoulder_L/herobrine_3D_rig:FKOffsetElbow_L/herobrine_3D_rig:FKExtraElbow_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L/herobrine_3D_rig:FKXShoulder_L/herobrine_3D_rig:FKOffsetElbow_L/herobrine_3D_rig:FKExtraElbow_L/herobrine_3D_rig:FKElbow_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_L/herobrine_3D_rig:FKOffsetShoulder_L/herobrine_3D_rig:FKExtraShoulder_L/herobrine_3D_rig:FKShoulder_L/herobrine_3D_rig:FKXShoulder_L/herobrine_3D_rig:FKOffsetElbow_L/herobrine_3D_rig:FKExtraElbow_L/herobrine_3D_rig:FKElbow_L/herobrine_3D_rig:FKXElbow_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R/herobrine_3D_rig:FKXShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R/herobrine_3D_rig:FKXShoulder_R/herobrine_3D_rig:FKOffsetElbow_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R/herobrine_3D_rig:FKXShoulder_R/herobrine_3D_rig:FKOffsetElbow_R/herobrine_3D_rig:FKExtraElbow_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R/herobrine_3D_rig:FKXShoulder_R/herobrine_3D_rig:FKOffsetElbow_R/herobrine_3D_rig:FKExtraElbow_R/herobrine_3D_rig:FKElbow_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:FKSystem/herobrine_3D_rig:FKParentConstraintToScapula_R/herobrine_3D_rig:FKOffsetShoulder_R/herobrine_3D_rig:FKExtraShoulder_R/herobrine_3D_rig:FKShoulder_R/herobrine_3D_rig:FKXShoulder_R/herobrine_3D_rig:FKOffsetElbow_R/herobrine_3D_rig:FKExtraElbow_R/herobrine_3D_rig:FKElbow_R/herobrine_3D_rig:FKXElbow_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKCurve
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKCurve/herobrine_3D_rig:IKSpineCurve_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_L/herobrine_3D_rig:IKExtraArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_L/herobrine_3D_rig:IKExtraArm_L/herobrine_3D_rig:IKArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_L/herobrine_3D_rig:IKExtraArm_L/herobrine_3D_rig:IKArm_L/herobrine_3D_rig:IKmessureConstrainToArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_R/herobrine_3D_rig:IKExtraArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_R/herobrine_3D_rig:IKExtraArm_R/herobrine_3D_rig:IKArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetArm_R/herobrine_3D_rig:IKExtraArm_R/herobrine_3D_rig:IKArm_R/herobrine_3D_rig:IKmessureConstrainToArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M/herobrine_3D_rig:IKExtraSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M/herobrine_3D_rig:IKExtraSpine1_M/herobrine_3D_rig:IKSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M/herobrine_3D_rig:IKExtraSpine1_M/herobrine_3D_rig:IKSpine1_M/herobrine_3D_rig:IKSpine1LocalOrient1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M/herobrine_3D_rig:IKExtraSpine1_M/herobrine_3D_rig:IKSpine1_M/herobrine_3D_rig:IKSpine1LocalOrient1_M/herobrine_3D_rig:IKSpine1LocalOrient2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetConstrainedSpine1_M/herobrine_3D_rig:IKOffsetSpine1_M/herobrine_3D_rig:IKExtraSpine1_M/herobrine_3D_rig:IKSpine1_M/herobrine_3D_rig:IKSpineLocator0_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetcvSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetcvSpine1_M/herobrine_3D_rig:IKExtracvSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetcvSpine1_M/herobrine_3D_rig:IKExtracvSpine1_M/herobrine_3D_rig:IKcvSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetcvSpine1_M/herobrine_3D_rig:IKExtracvSpine1_M/herobrine_3D_rig:IKcvSpine1_M/herobrine_3D_rig:IKSpineLocator1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:IKFKAlignedLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L/herobrine_3D_rig:RollOffsetToes_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L/herobrine_3D_rig:RollOffsetToes_L/herobrine_3D_rig:RollRollerToes_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L/herobrine_3D_rig:RollOffsetToes_L/herobrine_3D_rig:RollRollerToes_L/herobrine_3D_rig:RollExtraToes_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L/herobrine_3D_rig:RollOffsetToes_L/herobrine_3D_rig:RollRollerToes_L/herobrine_3D_rig:RollExtraToes_L/herobrine_3D_rig:RollToes_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_L/herobrine_3D_rig:IKExtraLeg_L/herobrine_3D_rig:IKLeg_L/herobrine_3D_rig:IKLegFootRockInnerPivot_L/herobrine_3D_rig:IKLegFootRockOuterPivot_L/herobrine_3D_rig:RollOffsetHeel_L/herobrine_3D_rig:RollRollerHeel_L/herobrine_3D_rig:RollExtraHeel_L/herobrine_3D_rig:RollHeel_L/herobrine_3D_rig:RollOffsetToesEnd_L/herobrine_3D_rig:RollRollerToesEnd_L/herobrine_3D_rig:RollExtraToesEnd_L/herobrine_3D_rig:RollToesEnd_L/herobrine_3D_rig:RollOffsetToes_L/herobrine_3D_rig:RollRollerToes_L/herobrine_3D_rig:RollExtraToes_L/herobrine_3D_rig:RollToes_L/herobrine_3D_rig:IKmessureConstrainToLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:IKFKAlignedLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R/herobrine_3D_rig:RollOffsetToes_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R/herobrine_3D_rig:RollOffsetToes_R/herobrine_3D_rig:RollRollerToes_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R/herobrine_3D_rig:RollOffsetToes_R/herobrine_3D_rig:RollRollerToes_R/herobrine_3D_rig:RollExtraToes_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R/herobrine_3D_rig:RollOffsetToes_R/herobrine_3D_rig:RollRollerToes_R/herobrine_3D_rig:RollExtraToes_R/herobrine_3D_rig:RollToes_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetLeg_R/herobrine_3D_rig:IKExtraLeg_R/herobrine_3D_rig:IKLeg_R/herobrine_3D_rig:IKLegFootRockInnerPivot_R/herobrine_3D_rig:IKLegFootRockOuterPivot_R/herobrine_3D_rig:RollOffsetHeel_R/herobrine_3D_rig:RollRollerHeel_R/herobrine_3D_rig:RollExtraHeel_R/herobrine_3D_rig:RollHeel_R/herobrine_3D_rig:RollOffsetToesEnd_R/herobrine_3D_rig:RollRollerToesEnd_R/herobrine_3D_rig:RollExtraToesEnd_R/herobrine_3D_rig:RollToesEnd_R/herobrine_3D_rig:RollOffsetToes_R/herobrine_3D_rig:RollRollerToes_R/herobrine_3D_rig:RollExtraToes_R/herobrine_3D_rig:RollToes_R/herobrine_3D_rig:IKmessureConstrainToLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine2_M/herobrine_3D_rig:IKExtraSpine2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine2_M/herobrine_3D_rig:IKExtraSpine2_M/herobrine_3D_rig:IKSpine2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine2_M/herobrine_3D_rig:IKExtraSpine2_M/herobrine_3D_rig:IKSpine2_M/herobrine_3D_rig:IKSpine2LocalOrient1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine2_M/herobrine_3D_rig:IKExtraSpine2_M/herobrine_3D_rig:IKSpine2_M/herobrine_3D_rig:IKSpine2LocalOrient1_M/herobrine_3D_rig:IKSpine2LocalOrient2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M/herobrine_3D_rig:IKExtraSpine3_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M/herobrine_3D_rig:IKExtraSpine3_M/herobrine_3D_rig:IKSpine3_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M/herobrine_3D_rig:IKExtraSpine3_M/herobrine_3D_rig:IKSpine3_M/herobrine_3D_rig:IKSpine3LocalOrient1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M/herobrine_3D_rig:IKExtraSpine3_M/herobrine_3D_rig:IKSpine3_M/herobrine_3D_rig:IKSpine3LocalOrient1_M/herobrine_3D_rig:IKSpine3LocalOrient2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKOffsetSpine3_M/herobrine_3D_rig:IKExtraSpine3_M/herobrine_3D_rig:IKSpine3_M/herobrine_3D_rig:IKSpineLocator2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKScalerChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKScalerRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:IKScalerSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_L/herobrine_3D_rig:PoleExtraArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_L/herobrine_3D_rig:PoleExtraArm_L/herobrine_3D_rig:PoleArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_R/herobrine_3D_rig:PoleExtraArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetArm_R/herobrine_3D_rig:PoleExtraArm_R/herobrine_3D_rig:PoleArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_L/herobrine_3D_rig:PoleExtraLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_L/herobrine_3D_rig:PoleExtraLeg_L/herobrine_3D_rig:PoleLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_R/herobrine_3D_rig:PoleExtraLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKHandle/herobrine_3D_rig:PoleOffsetLeg_R/herobrine_3D_rig:PoleExtraLeg_R/herobrine_3D_rig:PoleLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset2_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset2_M/herobrine_3D_rig:IKAcSpine1FollowOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset3_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset3_M/herobrine_3D_rig:IKAcPociXformChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset3_M/herobrine_3D_rig:IKAcPociXformSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset_M/herobrine_3D_rig:IKAcChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset_M/herobrine_3D_rig:IKAcRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKAcSpineOffset_M/herobrine_3D_rig:IKAcSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L/herobrine_3D_rig:IKMessureFromHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L/herobrine_3D_rig:IKXOffsetHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L/herobrine_3D_rig:IKXOffsetHip_L/herobrine_3D_rig:IKXHip_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L/herobrine_3D_rig:IKXOffsetHip_L/herobrine_3D_rig:IKXHip_L/herobrine_3D_rig:IKXKnee_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_L/herobrine_3D_rig:IKXOffsetHip_L/herobrine_3D_rig:IKXHip_L/herobrine_3D_rig:IKXKnee_L/herobrine_3D_rig:IKXAnkle_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R/herobrine_3D_rig:IKMessureFromHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R/herobrine_3D_rig:IKXOffsetHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R/herobrine_3D_rig:IKXOffsetHip_R/herobrine_3D_rig:IKXHip_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R/herobrine_3D_rig:IKXOffsetHip_R/herobrine_3D_rig:IKXHip_R/herobrine_3D_rig:IKXKnee_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintHip_R/herobrine_3D_rig:IKXOffsetHip_R/herobrine_3D_rig:IKXHip_R/herobrine_3D_rig:IKXKnee_R/herobrine_3D_rig:IKXAnkle_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M/herobrine_3D_rig:IKFixedOrientRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M/herobrine_3D_rig:IKFixedOrientRoot_M/herobrine_3D_rig:IKAcRootFollowOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M/herobrine_3D_rig:IKFixedOrientRoot_M/herobrine_3D_rig:IKSpRootFollowOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M/herobrine_3D_rig:IKSpSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKfake0Spine_M/herobrine_3D_rig:IKSpSpine1_M/herobrine_3D_rig:IKSpChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKXOffsetRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKXOffsetRoot_M/herobrine_3D_rig:IKXRoot_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKXOffsetRoot_M/herobrine_3D_rig:IKXRoot_M/herobrine_3D_rig:IKXSpine1_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintRoot_M/herobrine_3D_rig:IKXOffsetRoot_M/herobrine_3D_rig:IKXRoot_M/herobrine_3D_rig:IKXSpine1_M/herobrine_3D_rig:IKXChest_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_L/herobrine_3D_rig:IKMessureFromShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_L/herobrine_3D_rig:IKXOffsetShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_L/herobrine_3D_rig:IKXOffsetShoulder_L/herobrine_3D_rig:IKXShoulder_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_L/herobrine_3D_rig:IKXOffsetShoulder_L/herobrine_3D_rig:IKXShoulder_L/herobrine_3D_rig:IKXElbow_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_R/herobrine_3D_rig:IKMessureFromShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_R/herobrine_3D_rig:IKXOffsetShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_R/herobrine_3D_rig:IKXOffsetShoulder_R/herobrine_3D_rig:IKXShoulder_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKParentConstraintShoulder_R/herobrine_3D_rig:IKXOffsetShoulder_R/herobrine_3D_rig:IKXShoulder_R/herobrine_3D_rig:IKXElbow_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKSpSpineOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKSpSpineOffset_M/herobrine_3D_rig:IKSpChestFollowOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKJoints/herobrine_3D_rig:IKSpSpineOffset_M/herobrine_3D_rig:IKSpSpine1FollowOffset_M
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKdistanceArm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKdistanceArm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKdistanceLeg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKdistanceLeg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Arm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Arm_L/herobrine_3D_rig:IKmessureLoc2Arm_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Arm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Arm_R/herobrine_3D_rig:IKmessureLoc2Arm_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Leg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Leg_L/herobrine_3D_rig:IKmessureLoc2Leg_L
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Leg_R
+    m_Weight: 0
+  - m_Path: herobrine_3D_rig:Main/herobrine_3D_rig:MotionSystem/herobrine_3D_rig:IKSystem/herobrine_3D_rig:IKMessure/herobrine_3D_rig:IKmessureLoc1Leg_R/herobrine_3D_rig:IKmessureLoc2Leg_R
+    m_Weight: 0

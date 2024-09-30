@@ -31,5 +31,6 @@ Material:
     m_Floats:
     - _A: 0.6
     - _B: 0.8
+    - _Smoothing: 0.062
     m_Colors: []
   m_BuildTextureStacks: []
